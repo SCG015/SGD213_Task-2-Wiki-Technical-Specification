@@ -1,4 +1,4 @@
-# TOP HEADING 
+# Silent Ops Studio 
 
-## Dummy Heading
-Fill this with information.
+## Team Members
+Nat Joyce and Sean Greentree
