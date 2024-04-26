@@ -75,8 +75,8 @@ Work will be completed to fit the provided Statement of Works, any work outside 
 [//]: # (If dealing in person, agreements should be signed so that additional work can be billed)
 | Client Name | Date | Signature |
 | --- | --- | --- |
-| John Doe | 12-34-5678 | ________ |
+| Ian | 04-23-2024 | ________ |
 
 | Team Rep. | Date | Signature |
 | --- | --- | --- |
-| Jane Doe | 12-34-5678 | ________ |
+| Nat Joyce | 04-23-2024 | ________ |
